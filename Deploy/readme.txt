@@ -7,4 +7,4 @@ to run: streamlit run ml.py
 to upload directly into github
 git init
 git add .
-git ppush
+git push
